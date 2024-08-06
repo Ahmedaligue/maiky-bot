@@ -3,8 +3,8 @@ let handler = async (m, { conn }) => {
     let name = conn.getName(m.sender);
     let taguser = '@' + m.sender.split("@s.whatsapp.net")[0];
     let message = `*⎔⋅• ━ ╼╃ ⌬〔🐦‍🔥〕⌬ ╄╾ ━ •⋅⎔
-*~ان شاء الله احمد يتزوج خديجه😉~*`;
-    
+*مشغول يهطف 🐤*`;
+
 
     conn.sendFile(m.chat, 'https://telegra.ph/file/d0cbd8f9043ec66b540b3.jpg', 'image.jpg', message, m);
 };
