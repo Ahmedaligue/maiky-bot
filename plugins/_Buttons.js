@@ -20,14 +20,14 @@ rows: [
 const messages = [[ // CARRUSEL 1
 'تست تست', 
 '𝒁𝒆𝒛𝒐 𝑩𝒐𝒕',
-'https://telegra.ph/file/f4f9d2420ac2b1072eb2e.jpg',
+'https://telegra.ph/file/7eaa19b36e5f61f34ef3a.jpg',
 [['القائمه', usedPrefix + 'menu'], ['المطور','.المطور'] /* etc... */],
 [['صوره', canal2], ['القناه', 'https://whatsapp.com/channel/0029Vaflefp4Y9ljqmqllP3a'] /* etc... */],
 [['click here', sections]]
 ], [ // CARRUSEL 2
 'تست',
 '𝒁𝒆𝒛𝒐 𝑩𝒐𝒕',
-'https://telegra.ph/file/f4f9d2420ac2b1072eb2e.jpg',
+'https://telegra.ph/file/7eaa19b36e5f61f34ef3a.jpg',
 [['المطور', '.المطور'], ['القائمه', '.menu']],
 [['𝒁𝒆𝒛𝒐 𝑩𝒐𝒕'], ['زيزو عمك']],
 [['قناتي', 'https://whatsapp.com/channel/0029Vaflefp4Y9ljqmqllP3a']],
@@ -35,7 +35,7 @@ const messages = [[ // CARRUSEL 1
 ]]/*[ // CARRUSEL 3
 'Descripción de Carrusel 3',
 'Footer de Carrusel 3',
-'https://telegra.ph/file/ec725de5925f6fb4d5647.jpg',
+'https://telegra.ph/file/7eaa19b36e5f61f34ef3a.jpg',
 [['Botón1', 'Id1'], ['Botón2', 'Id2']],
 [['Texto para copiar 1'], ['Texto para copiar 2']],
 [['Enlace1', 'https://example.com/link1'], ['Enlace2', 'https://example.com/link2']],
@@ -43,7 +43,7 @@ const messages = [[ // CARRUSEL 1
 ],[ // CARRUSEL 4
 'Descripción de Carrusel 4',
 'Footer de Carrusel 4',
-'https://telegra.ph/file/7acad0975febb71446da5.jpg',
+'https://telegra.ph/file/7eaa19b36e5f61f34ef3a.jpg',
 [['Botón1', 'Id1'], ['Botón2', 'Id2']],
 [['Texto para copiar 1'], ['Texto para copiar 2']],
 [['Enlace1', 'https://example.com/link1'], ['Enlace2', 'https://example.com/link2']],
