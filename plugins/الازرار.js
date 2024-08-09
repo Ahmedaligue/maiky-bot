@@ -12,9 +12,9 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
     // قائمة عناوين URL للصور
     const images = [
 
-        'https://telegra.ph/file/ac04a53e91eeb841a6ef4.jpg',
-        'https://telegra.ph/file/ec6b8e0bcee7a203cadd3.jpg',
-        'https://telegra.ph/file/dc2e0602a95833d4adc7b.jpg'// أضف عنوان URL ثالث هنا
+        'https://telegra.ph/file/7eaa19b36e5f61f34ef3a.jpg',
+        'https://telegra.ph/file/7eaa19b36e5f61f34ef3a.jpg',
+        'https://telegra.ph/file/7eaa19b36e5f61f34ef3a.jpg'// أضف عنوان URL ثالث هنا
     ];
 
     // اختيار عشوائي لعنوان URL من القائمة
@@ -33,10 +33,10 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
 ── • ◈ • ──
 
 ┏━━🤖 *『』ī معلومات البوت ī《* 🤖━━┓
-┃ ✨  *اسـم البـوت: 𝒁𝒆𝒛𝒐 𝑩𝒐𝒕*
-┃ 💻  *المـنصـة:* 𝑯𝑬𝑹𝑶𝑲𝑼💀 
-┃ 📍  *رقم المطور: 972512997441*
-┃ 📚  *اسم المطور: 『محمد』* 
+┃ ✨  *اسـم البـوت: SENKU 𝑩𝒐𝒕*
+┃ 💻  *المـنصـة:* TOYSTACK💀 
+┃ 📍  *رقم المطور: +212658594530*
+┃ 📚  *اسم المطور:AHMED ALIGUEد』* 
 ┗━━━━━━━━━━━━━┛
 
 ┏━━⏰ *『』التاريخ والوقت《* ⏰━┓
@@ -46,7 +46,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
 ⟣┈┈┈┈┈┈⟢┈┈┈⟣┈┈┈┈┈┈┈⟢`
                     },
                     footer: {
-                        text: 'ᴹᴿMikeyᴹᴿ'
+                        text: 'ᴹᴿSENKU BOTᴹᴿ'
                     },
                     header: {
                         title: '',
@@ -112,13 +112,6 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
                                                     description: '',
                                                     id: '.3',
                                                 },
-
-                                                {
-                                                    header: '『』MENU《',
-                                                    title: '⌬ ❛╏شروط',
-                                                    description: '',
-                                                    id: '.20',
-                                                },
                                                 {
                                                     header: '『』MENU《',
                                                     title: '⌬ ❛╏الدعم',
@@ -135,7 +128,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
                                         }
                                     ]
                                 }),
-                                messageParamsJson: 'ZEZO bot'
+                                messageParamsJson: 'SENKU bot'
                             },
                             {
                                 name: "quick_reply",
@@ -147,14 +140,10 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
                             },
                             {
                                 name: "cta_url",
-                                buttonParamsJson: "{\"display_text\":\"『』موقع المطور《\",\"url\":\"https://www.atom.bio/maiky-bot////\",\"merchant_url\":\"https://www.atom.bio/maiky-bot////\"}"
-                            },
-                            {
-                                name: "cta_url",
                                 buttonParamsJson: JSON.stringify({
                                     display_text: "『』القناة الخاصة بالبوت《",
-                                    url: "https://whatsapp.com/channel/0029Vafd5a23wtbEqjlnbw1l",
-                                    merchant_url: "https://whatsapp.com/channel/0029Vafd5a23wtbEqjlnbw1l"
+                                    url: "https://whatsapp.com/channel/0029VagAnKTB4hdbFcQee90X",
+                                    merchant_url: "https://whatsapp.com/channel/0029VagAnKTB4hdbFcQee90X"
                                 })
                             }
                         ]
