@@ -16,16 +16,15 @@ WELCOME ➳『 ${m.pushName} 』
 
 *『☯️』ī وتسابي ī《*
 
-*⊱≼ https://wa.me/+201508628077 ≽⊰⊹*
+*⊱≼ https://wa.me/+212658594530 ≽⊰⊹*
 
-*『🥱』معلوماتي《*
-
-*⊱≼ https://atom.bio/zyad_yasser ≽⊰⊹*
+*『🥱انستا المطور 《*
+*https://www.instagram.com/irin_yeger1?igsh=OGQ5ZDc2ODk2ZA==*
 
 *『👀』ī جروب الوتساب ī《*
 
-*⊱≼ https://chat.whatsapp.com/JO7neq006uI3OgEtjNvtm0 ≽⊰⊹*
-*『』𝒁𝒆𝒛𝒐 𝑩𝒐𝒕《*
+*⊱≼ سيتم اضافته قريبا ≽⊰⊹*
+*『』SENKU 𝑩𝒐𝒕《*
 *◉═══ • ❁ BAY ❁ • ═══◉* 
 `);
 
