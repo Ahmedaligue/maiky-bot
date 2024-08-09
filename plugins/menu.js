@@ -1,6 +1,6 @@
 let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, isPrems })  => {
 const caption =`
-*➻𒍜➻Đ『➳ᴹᴿ᭄𝒁𝒆𝒛𝒐➳ᴹᴿ᭄』*
+*➻𒍜➻Đ『➳ᴹᴿ᭄SENKU BOT➳ᴹᴿ᭄』*
 *⌬ ❛╏ بان*
 *⌬ ❛╏ بانفك*
 *⌬ ❛╏ بريم*
@@ -15,11 +15,11 @@ const caption =`
 *⌬ ❛╏ بانشات_فك*
 *⌬ ❛╏ بلوك*
 *⌬ ❛╏ فك_بلوك*
- *➻𒍜➻Đ『➳ᴹᴿ᭄𝒁𝒆𝒛𝒐➳ᴹᴿ᭄』*`
+ *➻𒍜➻Đ『➳ᴹᴿ᭄SENKU BOT➳ᴹᴿ᭄』*`
 
 await conn.sendMessage( m.chat, {
         image: {
-          url: 'https://telegra.ph/file/2734b5a64dff01470b255.jpg'
+          url: 'https://telegra.ph/file/7eaa19b36e5f61f34ef3a.jpg'
        },
         caption: caption,
         gifPlayback: true,
